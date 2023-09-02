@@ -2,31 +2,37 @@
     {
         "id" : "1",
         "nama" : "desain-1",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%201.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%201.jpg"
     },
     {
         "id" : "2",
         "nama" : "desain-2",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%202.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%202.jpg"
     },
     {
         "id" : "3",
         "nama" : "desain-3",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%203.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%203.jpg"
     },
     {
         "id" : "4",
         "nama" : "desain-4",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%204.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%204.jpg"
     },
     {
         "id" : "5",
         "nama" : "desain-5",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%205.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%205.jpg"
     },
     {
         "id" : "6",
         "nama" : "desain-6",
-        "url" : "https"
+        "url-1" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv/Desain%206.jpg",
+        "url-2" : "https://raw.githubusercontent.com/IdhamAsegap12/data-cv.github.io/main/image-cv-blank/Desain%206.jpg"
     }
 ]
