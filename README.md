@@ -1,2 +1,2 @@
 # data-cv.github.io
-Data JSON desain CV Prject
+Data JSON desain CV Project
